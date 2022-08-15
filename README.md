@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QzKevin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-https://stats.justsong.cn/api/zhihu?username=delusionchen-che
-https://stats.justsong.cn/api/bilibili/?id=1795167221
+https://stats.justsong.cn/api/zhihu?username=delusionchen-che  
+https://stats.justsong.cn/api/bilibili/?id=1795167221  
 https://stats.justsong.cn/api/leetcode?username=Kayin.&cn=true
