@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QzKevin&show_icons=true&theme=vue&count_private=true)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QzKevin&theme=vue&repo=typecho_vercel)](https://github.com/QzKevin/typecho_vercel)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QzKevin&theme=vue&repo=qzkevin.github.io)](https://github.com/QzKevin/qzkevin.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QzKevin&theme=vue&repo=typecho_vercel)](https://github.com/QzKevin/typecho_vercel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QzKevin&theme=vue&repo=qzkevin.github.io)](https://github.com/QzKevin/qzkevin.github.io)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QzKevin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
