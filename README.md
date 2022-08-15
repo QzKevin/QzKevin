@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 
 [![GitHub Info](https://stats.justsong.cn/api/github?username=QzKevin&theme=dark)](https://github.com/QzKevin)    
-[![Zhihu Info](https://stats.justsong.cn/api/zhihu?username=delusionchen-che)  
-[![LeetCode Info](https://stats.justsong.cn/api/leetcode?username=kayin-r&cn=true)
+[![Zhihu Info](https://stats.justsong.cn/api/zhihu?username=delusionchen-che)](https://www.zhihu.com/people/delusionchen-che)   
+[![LeetCode Info](https://stats.justsong.cn/api/leetcode?username=kayin-r&cn=true)](https://leetcode.cn/u/kayin-r)
