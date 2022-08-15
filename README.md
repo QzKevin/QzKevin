@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QzKevin&theme=vue&repo=qzkevin.github.io)](https://github.com/QzKevin/qzkevin.github.io)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QzKevin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+https://stats.justsong.cn/api/zhihu?username=delusionchen-che
+https://stats.justsong.cn/api/bilibili/?id=1795167221
+https://stats.justsong.cn/api/leetcode?username=Kayin.&cn=true
