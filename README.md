@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QzKevin&theme=vue&repo=qzkevin.github.io)](https://github.com/QzKevin/qzkevin.github.io)
 
 [![GitHub Info](https://stats.justsong.cn/api/github?username=QzKevin)](https://github.com/QzKevin)
-[![Zhihu Info](https://stats.justsong.cn/api/zhihu?username=delusionchen-che)](https://www.zhihu.com/people/delusionchen-che)
-[![LeetCode Info](https://stats.justsong.cn/api/leetcode?username=kayin-r&cn=true)](https://leetcode.cn/u/kayin-r)
+[![LeetCode Info](https://stats.justsong.cn/api/leetcode?username=kayin-r&cn=true)](https://leetcode.cn/u/kayin-r) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qzkevin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
