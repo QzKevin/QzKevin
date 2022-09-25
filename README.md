@@ -27,3 +27,20 @@ Here are some ideas to get you started:
 
 <!-- GitHub Activity Graph -->
 <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=qzkevin&theme=xcode" /></div>
+
+# 🚀 Action
+
+<!-- 连续提交代码天数记录 -->
+<p align="center">
+  <img width="150" src="https://cdn.cbd.int/anzhiyu-assets/image/common/github-info/left-wing.png" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qzkevin&theme=dark&hide_border=true" />
+  <img width="150" src="https://cdn.cbd.int/anzhiyu-assets/image/common/github-info/right-wing.png" />
+</p>
+
+<!-- metrics 基础资料 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/anzhiyu-c/anzhiyu-c@main/base_metrics.svg" alt="base metrics"/></div>
+<br>
+
+<!-- GitHub奖杯🏆 -->
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=qzkevin&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
+<br>
