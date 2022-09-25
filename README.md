@@ -62,6 +62,13 @@ Here are some ideas to get you started:
 
 <div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
 
+<!-- 个人资料徽标 -->
+<div align="center">
+  <a href="https://qzkevin.github.io"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
+  <a href="https://space.bilibili.com/1795167221"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+  <a href="https://www.zhihu.com/people/delusionchen-che"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+<!-- 访客数统计徽标 -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=qzkevin" /></div>
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
