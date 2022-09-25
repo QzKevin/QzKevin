@@ -42,6 +42,27 @@ Here are some ideas to get you started:
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=qzkevin&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
 <br>
 
+💪 正在学习:
+
+&emsp;&emsp;
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+
+🧰 常用的工具:
+
+&emsp;&emsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+
+<div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
+
+
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 
 <!-- plugin metrics -->
