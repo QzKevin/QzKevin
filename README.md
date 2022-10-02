@@ -52,7 +52,9 @@ Here are some ideas to get you started:
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
   
- ![Metrics](https://metrics.lecoq.io/QzKevin?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FSingapore)
+![Metrics](https://metrics.lecoq.io/QzKevin?template=classic&isocalendar=1&lines=1&stars=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FSingapore)
+ 
+# About me
   
 💪 正在学习:
 
