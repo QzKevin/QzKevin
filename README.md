@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QzKevin&show_icons=true&theme=vue&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QzKevin&show_icons=true&theme=vue&count_private=true) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qzkevin&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QzKevin&theme=vue&repo=typecho_vercel)](https://github.com/QzKevin/typecho_vercel)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QzKevin&theme=vue&repo=qzkevin.github.io)](https://github.com/QzKevin/qzkevin.github.io)
 
 [![GitHub Info](https://stats.justsong.cn/api/github?username=QzKevin)](https://github.com/QzKevin)
 [![LeetCode Info](https://stats.justsong.cn/api/leetcode?username=kayin-r&cn=true)](https://leetcode.cn/u/kayin-r) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qzkevin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- GitHub Activity Graph -->
 <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=qzkevin&theme=xcode" /></div>
