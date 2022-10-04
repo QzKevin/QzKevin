@@ -6,7 +6,7 @@
   <a href="https://qzkevin.github.io"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
   <a href="https://space.bilibili.com/1795167221"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/delusionchen-che"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
-  <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/QzKevin&right_color=red" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/QzKevin&right_color=yellow" />
   
 
 <!--
