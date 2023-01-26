@@ -76,8 +76,6 @@ Here are some ideas to get you started:
 
 <div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
 
-# 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-
 <!-- plugin metrics -->
 <div align="center">
   <img src="https://cdn.cbd.int/anzhiyu-assets/image/common/github-info/rocket-banner.jpg"/>
