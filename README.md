@@ -32,10 +32,7 @@ Here are some ideas to get you started:
 
 [![GitHub Info](https://stats.justsong.cn/api/github?username=QzKevin)](https://github.com/QzKevin)
 [![LeetCode Info](https://stats.justsong.cn/api/leetcode?username=kayin-r&cn=true)](https://leetcode.cn/u/kayin-r) 
-
-<!-- GitHub Activity Graph -->
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=qzkevin&theme=xcode" /></div>
-
+  
 # 🚀 Action
 
 <!-- 连续提交代码天数记录 -->
