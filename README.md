@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![Vue](https://img.shields.io/badge/-Vue-green?style=flat-square&logo=Vue)
 
 🧰 常用的工具:
 
