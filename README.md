@@ -1,4 +1,4 @@
-### Hi!:sparkles:Welcome to Kayin's Github homepage
+### Hi!Welcome to Kayin's Github homepage
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World!)](https://git.io/typing-svg)
 
 <!-- 个人资料徽标 -->
