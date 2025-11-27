@@ -33,14 +33,6 @@ Here are some ideas to get you started:
 [![GitHub Info](https://stats.justsong.cn/api/github?username=QzKevin)](https://github.com/QzKevin)
 [![LeetCode Info](https://stats.justsong.cn/api/leetcode?username=kayin-r&cn=true)](https://leetcode.cn/u/kayin-r) 
   
-# 🚀 Action
-
-<!-- 连续提交代码天数记录 -->
-<p align="center">
-  <img width="150" src="https://cdn.cbd.int/anzhiyu-assets/image/common/github-info/left-wing.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qzkevin&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.cbd.int/anzhiyu-assets/image/common/github-info/right-wing.png" />
-</p>
 
 # About me
   
