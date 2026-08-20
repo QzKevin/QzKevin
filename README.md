@@ -3,9 +3,10 @@
 
 <!-- 个人资料徽标 -->
 <div align="left">
-  <a href="https://blog.smatrix.top"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
-  <a href="https://space.bilibili.com/1795167221"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <a href="https://www.zhihu.com/people/delusionchen-che"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+  <a href="https://blog.smatrix.top"><img src="https://img.shields.io/badge/website-个人博客-ED8B00?style=flat-square" alt="个人博客"></a>
+  <a href="https://space.bilibili.com/1795167221"><img src="https://img.shields.io/badge/bilibili-B站-pink?style=flat-square" alt="B站"></a>
+  <a href="https://www.zhihu.com/people/delusionchen-che"><img src="https://img.shields.io/badge/Zhihu-知乎-blue?style=flat-square" alt="知乎"></a>
+</div>
 
 <!--
 **QzKevin/QzKevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
