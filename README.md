@@ -1,5 +1,5 @@
 # Hey There! 👋
-**Hi!Welcome to Kayin's Github homepage**
+**Welcome to Kayin's Github homepage!**
 
 <!-- 个人资料徽标 -->
 <div align="left">
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![Vue](https://img.shields.io/badge/-Vue-green?style=flat-square&logo=Vue)
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,vue,astro,md,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,nodejs,vue,astro,md,mysql)](https://skillicons.dev)
 
 
 🧰 常用的工具:
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 -->
 
-[![My Tools](https://skillicons.dev/icons?i=anaconda,arduino,vscode,pycharm,idea,clion,cmake,docker,git,sketchup)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=anaconda,vscode,pycharm,idea,clion,cmake,docker,git,githubactions,sketchup,windows)](https://skillicons.dev)
 
 
 <div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
